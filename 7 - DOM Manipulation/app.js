@@ -13,6 +13,7 @@ elementWithID.style.fontFamily = "Impact";
 const elementWithClass = document.querySelector(".sample-div");
 console.log(elementWithClass);
 
+
 // .querySelectorAll()
 // Pass: #id, .classname, tagname
 const elementsWithClass = document.querySelectorAll(".sample-div")
