@@ -51,7 +51,7 @@ clear
 - Merge feature branch to master/main branch
 git merge "branch name"
 
-- Delete branch
+- Delete branch-m
 git branch -d "branch name"
 
 - Add a remote to local repository
