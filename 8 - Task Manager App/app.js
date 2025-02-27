@@ -14,6 +14,7 @@ filterTodo.addEventListener("change", filterTodos)
     // Prevents the form submission
     e.preventDefault();
 
+    
     // Create the todoDiv container
     const todoDiv = document.createElement('div');
     todoDiv.classList.add('todo');
