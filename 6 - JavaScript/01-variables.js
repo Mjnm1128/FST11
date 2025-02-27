@@ -8,6 +8,7 @@ multi-line
 comment.
 */
 
+
 let firstName = "John";
 console.log("Firstname:", firstName);
 
